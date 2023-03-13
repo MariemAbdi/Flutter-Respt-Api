@@ -18,7 +18,7 @@ A new Flutter project following <a href="https://www.djamware.com/post/5f308ef71
 
 <h1 align="center">Get(id) Method</h1>
 <p float="left" align="center">
-<img src="![image](https://user-images.githubusercontent.com/100727442/224800396-efb65e4f-40be-460a-8db2-9d4c90c3b4d1.png)" width="300"/>
+<img src="https://user-images.githubusercontent.com/100727442/224800396-efb65e4f-40be-460a-8db2-9d4c90c3b4d1.png" width="300"/>
 </p>
 
 <h1 align="center">Update Method</h1>
