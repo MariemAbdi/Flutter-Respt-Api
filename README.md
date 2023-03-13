@@ -18,17 +18,17 @@ A new Flutter project following <a href="https://www.djamware.com/post/5f308ef71
 
 <h1 align="center">Get(id) Method</h1>
 <p float="left" align="center">
-<img src="https://user-images.githubusercontent.com/100727442/224800396-efb65e4f-40be-460a-8db2-9d4c90c3b4d1.png" width="300"/>
+<img src="https://user-images.githubusercontent.com/100727442/224800396-efb65e4f-40be-460a-8db2-9d4c90c3b4d1.png" width="300" />
 </p>
 
 <h1 align="center">Update Method</h1>
 <p float="left" align="center">
-<img src="https://user-images.githubusercontent.com/100727442/224800831-f876fcbc-096e-4aa2-b8d8-13aa5c3b63d7.png" width=300/>
-<img src="https://user-images.githubusercontent.com/100727442/224801053-37a756f7-45ec-460c-a9df-04970dc2c04b.png" />
+<img src="https://user-images.githubusercontent.com/100727442/224800831-f876fcbc-096e-4aa2-b8d8-13aa5c3b63d7.png" width=300 />
+<img src="https://user-images.githubusercontent.com/100727442/224801053-37a756f7-45ec-460c-a9df-04970dc2c04b.png" width=300 />
 </p>
 
 <h1 align="center">DELETE Method</h1>
 <p float="left" align="center">
-<img src="https://user-images.githubusercontent.com/100727442/224801172-8ff15be1-d826-403e-b94f-b6e2552fa2db.png" />
-<img src="https://user-images.githubusercontent.com/100727442/224801286-26a278aa-d985-407f-8e3c-f987525d7a36.png" />
+<img src="https://user-images.githubusercontent.com/100727442/224801172-8ff15be1-d826-403e-b94f-b6e2552fa2db.png" width=300 />
+<img src="https://user-images.githubusercontent.com/100727442/224801286-26a278aa-d985-407f-8e3c-f987525d7a36.png" width=300 />
 </p>
