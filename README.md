@@ -4,9 +4,9 @@ A new Flutter project following <a href="https://www.djamware.com/post/5f308ef71
 
 # SCREENSHOTS
 ## Terminal
-<img src="https://user-images.githubusercontent.com/100727442/224798477-17e9861a-6c85-42de-8813-ea93840b10ee.png" width="300" />
+<img src="https://user-images.githubusercontent.com/100727442/224798477-17e9861a-6c85-42de-8813-ea93840b10ee.png" />
 ## Home Page And db.json file
-<img src="https://user-images.githubusercontent.com/100727442/224798705-8182b3e4-bc1b-4177-a203-de0e561089b7.png" width="300" />
+<img src="https://user-images.githubusercontent.com/100727442/224798705-8182b3e4-bc1b-4177-a203-de0e561089b7.png" />
 <img src="" width="300" />
 <img src="" width="300" />
 <img src="" width="300" />
